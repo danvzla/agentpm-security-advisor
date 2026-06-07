@@ -1,4 +1,4 @@
-# Cloud Network Security Advisor — AgentPM Agent 1
+# Cloud Network Security Advisor 
 
 AI-powered security posture analysis for cloud infrastructure environments.
 
@@ -26,7 +26,7 @@ Analyzes your network topology, existing security tools, and compliance requirem
 
 ## About this project
 
-Built as part of the AgentPM AI portfolio — a collection of agentic AI tools that automate real workflows from cloud infrastructure, networking & security, and telco domains.
+Built as part of the AI portfolio — a collection of AI tools that automate real workflows from cloud infrastructure, networking & security, and telco domains.
 
 This agent maps directly to security hardening work delivered at VMware Explore and VMUG, where the VCF Security Hardening session was recognized as a top session at VMware Explore Las Vegas 2023.
 
